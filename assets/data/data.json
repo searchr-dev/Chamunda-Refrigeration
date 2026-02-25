@@ -1,0 +1,148 @@
+{
+  "company": {
+    "name": "Chamunda Refrigeration",
+    "tagline": "Stay Cool. Stay Comfortable.",
+    "description": "Ahmedabad's most trusted AC & refrigeration service provider since 2018. We bring 6+ years of certified expertise to every job — from installation to deep cleaning.",
+    "phone": "9484821494",
+    "email": "chamundarefrigeration@gmail.com",
+    "address": {
+      "line1": "F-203, Prahlad Residency",
+      "line2": "Nr. Mevada Green Party Plot",
+      "city": "New Naroda, Ahmedabad",
+      "pincode": "382330",
+      "state": "Gujarat, India"
+    },
+    "experience": "6+",
+    "projectsDone": "1200+",
+    "happyClients": "900+",
+    "rating": "4.9"
+  },
+  "services": [
+    {
+      "id": "installation",
+      "icon": "hvac",
+      "title": "AC Installation",
+      "short": "Expert fitting for all brands & tons",
+      "description": "Professional installation of split, window, cassette, and inverter ACs. We handle all brands — Daikin, Voltas, LG, Samsung, Hitachi, and more. Proper copper piping, bracket mounting, and gas charging included.",
+      "features": [
+        "All brands supported",
+        "Same-day installation",
+        "Warranty on workmanship",
+        "Free site inspection"
+      ],
+      "price": "Starting ₹799"
+    },
+    {
+      "id": "repair",
+      "icon": "build",
+      "title": "AC Repair & Service",
+      "short": "Fast diagnostics, lasting fixes",
+      "description": "From compressor failures to PCB faults, we diagnose and fix all AC issues with precision. Our technicians carry original-grade spare parts for quick, reliable repairs that last.",
+      "features": [
+        "90-day repair warranty",
+        "Genuine spare parts",
+        "Emergency call-out",
+        "Transparent billing"
+      ],
+      "price": "Starting ₹299"
+    },
+    {
+      "id": "gas-refilling",
+      "icon": "gas_meter",
+      "title": "Gas Refilling (Regassing)",
+      "short": "R22, R32, R410A & all refrigerants",
+      "description": "If your AC isn't cooling properly, low refrigerant might be the cause. We offer precise gas filling using calibrated gauges — no overcharging, no shortcuts. All refrigerant types handled.",
+      "features": [
+        "Leak check included",
+        "Pressure testing",
+        "All refrigerant types",
+        "Eco-friendly disposal"
+      ],
+      "price": "Starting ₹999"
+    },
+    {
+      "id": "deep-cleaning",
+      "icon": "cleaning_services",
+      "title": "Deep Cleaning & Sanitization",
+      "short": "Bacteria-free, allergen-free air",
+      "description": "Foam jet cleaning of indoor unit, outdoor unit, filters, evaporator coil, and drain pan. Anti-bacterial treatment kills mold and allergens. Your AC runs 15–20% more efficiently after a deep clean.",
+      "features": [
+        "Foam jet technology",
+        "Anti-bacterial spray",
+        "Filter washing",
+        "Drain line flush"
+      ],
+      "price": "Starting ₹499"
+    },
+    {
+      "id": "amc",
+      "icon": "verified_user",
+      "title": "AMC – Annual Maintenance",
+      "short": "Year-round protection plans",
+      "description": "Our Annual Maintenance Contracts cover scheduled servicing, priority breakdowns, and discounted parts replacement. Residential and commercial plans available. Peace of mind, all year long.",
+      "features": [
+        "2–4 service visits/year",
+        "Priority response",
+        "Parts discount 20%",
+        "Free checkups"
+      ],
+      "price": "From ₹1,499/year"
+    },
+    {
+      "id": "commercial",
+      "icon": "factory",
+      "title": "Commercial HVAC",
+      "short": "Offices, shops & industrial units",
+      "description": "We service cassette ACs, central air conditioning, ductable units, and VRF/VRV systems for commercial spaces. Scheduled maintenance contracts for offices, restaurants, hospitals, and factories.",
+      "features": [
+        "Ductable & cassette AC",
+        "VRF/VRV systems",
+        "Chiller maintenance",
+        "24/7 contract support"
+      ],
+      "price": "Custom Quote"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Rakesh Patel",
+      "location": "Naroda, Ahmedabad",
+      "rating": 5,
+      "text": "Same-day repair service was absolutely brilliant. Technician arrived within 2 hours, diagnosed the issue quickly, and fixed it at a fair price. Highly recommended!"
+    },
+    {
+      "name": "Priya Shah",
+      "location": "Chandkheda, Ahmedabad",
+      "rating": 5,
+      "text": "Took an AMC plan for my 2 ACs. The cleaning visit made a huge difference — AC cools much faster now and electricity bill dropped noticeably. Very professional team."
+    },
+    {
+      "name": "Mehul Desai",
+      "location": "New Naroda, Ahmedabad",
+      "rating": 5,
+      "text": "Gas refilling was done properly with pressure gauge, not guesswork. First time someone explained the whole process to me. Trustworthy service!"
+    }
+  ],
+  "whyUs": [
+    {
+      "icon": "verified",
+      "title": "Certified Technicians",
+      "desc": "All our staff are trained, certified, and background-verified professionals."
+    },
+    {
+      "icon": "schedule",
+      "title": "On-Time Service",
+      "desc": "We value your time. Technicians arrive within the scheduled window, every time."
+    },
+    {
+      "icon": "currency_rupee",
+      "title": "Transparent Pricing",
+      "desc": "No hidden charges. You get a quote before any work begins."
+    },
+    {
+      "icon": "star",
+      "title": "6+ Years Experience",
+      "desc": "Over 1,200 successful jobs across Ahmedabad and surrounding areas."
+    }
+  ]
+}
